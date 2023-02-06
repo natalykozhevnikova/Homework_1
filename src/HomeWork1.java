@@ -1,3 +1,4 @@
+// Написать программу вычисления n-ого треугольного числа
 
 import java.util.Scanner;
 public class HomeWork1 {
